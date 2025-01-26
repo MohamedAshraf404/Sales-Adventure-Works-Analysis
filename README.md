@@ -2,6 +2,8 @@
 
 This project involves creating a fully interactive dashboard using **Power BI** to analyze the sales data of **Adventure Works**, a fictional company specializing in product sales. The goal of the project was to transform raw data into actionable insights by designing interactive and visually appealing reports to support management decision-making.  
 
+![ٍSales Dashboard]([path_to_image](https://github.com/MohamedAshraf404/Sales-Adventure-Works-Analysis/blob/a81aad6245922c36511f81119f2f0bed84b62c03/Sales%20Report.jpg))
+
 ## Steps Undertaken  
 
 ### Data Connection  
